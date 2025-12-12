@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2a5a5f3e70258c8de981366a55bccdef",
+    "content-hash": "0118751ceb0a133843936137ac7cf365",
     "packages": [
         {
             "name": "aliziodev/laravel-taxonomy",
